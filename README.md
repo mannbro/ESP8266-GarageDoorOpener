@@ -27,7 +27,7 @@ Add both the boot.py and main.py to the ESP Module.
 
 Set your SSID and Wifi password.
 
-If you're using a different ESP8266 module or an ESP32, you might need to change which pins you are using for the LED and the Relay for it to work.
+If you're using a different ESP8266/ESP32 or a different relay module than I do (see My Setup), you might need to change which pins you are using for the LED and the Relay for it to work. 
 
 ## Hooking it up to the Door Control Unit
 My garage has one single impulse input, that toggles between Open / Stop / Close by connecting two inputs.
