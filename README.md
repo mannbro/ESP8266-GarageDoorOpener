@@ -5,6 +5,11 @@ This project works with Garage Doors that can handle one input for Open, Close a
 
 For Garage Doors that have separate pins for the different operations, you need to adopt the code and add more relays and buttons for the different operations.
 
+## YouTube Video
+To learn more, check out the YouTube video I made about the Garage Door Opener
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/d6emhqJRi54/0.jpg)](https://www.youtube.com/watch?v=d6emhqJRi54)
+
 ## How it works
 This program starts a webserver that listens to requests.
 
